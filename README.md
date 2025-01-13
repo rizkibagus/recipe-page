@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./preview.jpg)
+![](./ss.jpg)
 
 Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
@@ -29,8 +29,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/rizkibagus/recipe-page)
+- Live Site URL: (https://rizkibagus.github.io/recipe-page/)
 
 ## My process
 
@@ -99,7 +99,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Portfolio](https://rizkibagus.github.io/portfolio/)
+- Website - [My Portfolio Website](https://rizkibagus.github.io/portfolio/)
 - Frontend Mentor - [@rizkibagus](https://www.frontendmentor.io/profile/rizkibagus)
 - Twitter - [@bagusdev_](https://www.twitter.com/bagusdev_)
 
