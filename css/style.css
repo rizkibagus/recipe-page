@@ -20,7 +20,7 @@
 
 body {
   font-family: "Outfit", sans-serif;
-  background-color: var(--rose50);
+  background-color: var(--stone100);
   min-height: 100vh;
   display: flex;
   justify-content: center;
